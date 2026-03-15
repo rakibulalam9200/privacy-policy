@@ -1,7 +1,3 @@
----
-layout: null
----
-
 # Privacy Policy for Comeback King
 
 **Effective Date: March 15, 2026**  
