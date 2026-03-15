@@ -313,6 +313,4 @@ linked within the App.*
 ---
 
 **© 2026 Comeback King. All rights reserved.**
-```
-
 ---
